@@ -14,3 +14,7 @@ ref-openai-auth/
 OVERVIEW.md
 hermes-git/
 for-me.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
